@@ -1,5 +1,4 @@
-
-Statistical table extracted on April 28, 2026 (16:56:57)
+Statisticas table extracted on February 27, 2026 (18:16:35)
 http://www.ine.pt
 
 
@@ -10,8 +9,6 @@ Data reference period;Median value of bank evaluation (?/ m²) by Geographic loca
 ;Type of construction;;;;
 ;Total;Flats;Total;Flats;
 ;?/ m² ;?/ m² ;?/ m² ;?/ m² ;
-March 2026;2160;2528;3247;3274;
-February 2026;2160;2486;3159;3187;
 January 2026;2160;2528;3090;3106;
 December 2025;2248;2565;3118;3126;
 November 2025;2299;2551;3081;3091;
@@ -197,7 +194,7 @@ January 2011;888;? ?;1067;1033;
 Median value of bank evaluation (?/ m²) by Geographic localization (Municipality - 2024) and Type of construction -  Monthly - Statistics Portugal, Survey on bank evaluation on housing
 
 
-This data last updated:april 28, 2026
+This data last updated:february 25, 2026
 
 
 Table Metadata
@@ -207,7 +204,7 @@ Name;Median value of bank evaluation (?/ m²) by Geographic localization (Municip
 Regularity;Monthly
 Source;Statistics Portugal, Survey on bank evaluation on housing
 First available period;January 2011
-Last available period;March 2026
+Last available period;January 2026
 Dimensions
      Dimension 1;Data reference period (Month)
      Dimension 2;Geographic localization (Municipality - 2024)
@@ -219,4 +216,4 @@ Definition;
 Formule;
 Measure unit (symbol);Euro/ Square metre (?/ m²)
 Power of 10;0
-Last update date;28-Apr-2026
+Last update date;25-Feb-2026
